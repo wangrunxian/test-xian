@@ -11,6 +11,10 @@ int main(int argc , char const *argv[])
 	{
 		printf("This num is %d !\n" , num);
 	}
+	else if(50 == num)
+	{
+		printf("Nothing is impossable!");
+	}
 	else
 	{
 		printf("Hello World and Linux!");
