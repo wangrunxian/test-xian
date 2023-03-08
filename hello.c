@@ -7,6 +7,8 @@ int main(int argc , char const *argv[])
 	int num;
 	scanf("%d" , &num);
 
+	printf("********************\n");
+
 	if(100 == num)
 	{
 		printf("This num is %d !\n" , num);
@@ -21,6 +23,7 @@ int main(int argc , char const *argv[])
 	}
 
 	printf("good luck to you!\n");
+	printf("********************\n");
 
 	return 0;
 
