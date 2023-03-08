@@ -22,6 +22,7 @@ int main(int argc , char const *argv[])
 
 	printf("good luck to you!\n");
 
+	printf("\n");
 	return 0;
 
 }
