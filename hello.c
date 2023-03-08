@@ -13,12 +13,14 @@ int main(int argc , char const *argv[])
 	}
 	else if(50 == num)
 	{
-		printf("Nothing is impossable!");
+		printf("Nothing is impossable!\n");
 	}
 	else
 	{
-		printf("Hello World and Linux!");
+		printf("Hello World and Linux!\n");
 	}
+
+	printf("good luck to you!\n");
 
 	return 0;
 
