@@ -1,7 +1,6 @@
 
 #include <stdio.h>
 
-
 int main(int argc , char const *argv[])
 {
 	int num;
@@ -21,13 +20,13 @@ int main(int argc , char const *argv[])
 	{
 		printf("Hello World and Linux!\n");
 	}
-
 	printf("good luck to you!\n");
+	
 	printf("********************\n");
 
 	printf("\n");
 	return 0;
-
+	
 }
 
 
